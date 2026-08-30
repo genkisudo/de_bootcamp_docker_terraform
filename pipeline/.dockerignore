@@ -1,0 +1,9 @@
+.git/
+.venv/
+ny_taxi_postgres_data/
+data/
+test/
+*.parquet
+__pycache__/
+*.py[codz]
+.DS_Store
